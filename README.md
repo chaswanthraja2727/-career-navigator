@@ -59,3 +59,10 @@ but they have not been run against a live Neo4j Aura database yet.
 
 - Done: graph model, loader script, learning-order logic, Streamlit screen
 - Not done: loading ESCO data into Aura, adding PREREQUISITE_OF links, end-to-end testing
+
+- ## Demo plan (planned)
+
+Demo roles: software developer, data scientist, pharmacist.
+For each role: choose the goal role, tick known skills,
+and see "Next: learn X", the learning order, and the colored graph.
+Status: prototype, not tested yet.
