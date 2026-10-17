@@ -1,0 +1,4 @@
+neo4j
+streamlit
+python-dotenv
+pyvis
