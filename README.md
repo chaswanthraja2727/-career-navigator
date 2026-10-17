@@ -51,3 +51,11 @@ Occupation and skill data: ESCO, European Commission. Check their terms of use b
 ## Team
 
 Add team members here.
+
+## Project status
+
+This is a prototype. The code and graph design are written,
+but they have not been run against a live Neo4j Aura database yet.
+
+- Done: graph model, loader script, learning-order logic, Streamlit screen
+- Not done: loading ESCO data into Aura, adding PREREQUISITE_OF links, end-to-end testing
